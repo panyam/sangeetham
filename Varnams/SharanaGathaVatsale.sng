@@ -4,21 +4,20 @@
 # Composer - Calcutta K S Krishnamurthy
 
 
-[Pallavi] {
-	[Sahithyam] {
-		| Sha , ra , na ,  , ga , , tha , , va , , tsa , , le , ,  	shan , , , , ka , ri , , ||
-	}
+<Pallavi>
 
-	[Swaram] {
-		| S , R ,   M , , G   R M D ,  , N G P   S. , , S. , ,   S.   N N D P - P  M M G R ||
-	}				
-
-	[Sahithyam] {
-		| Sha , ra , na ,  , ga , , tha , , va , , tsa , , le , ,  	shan , , , , ka , ri , , ||
-	}
-
-	[Swaram] {
-		| S , R ,   M , , G   R M D ,  , N G P   S. , , S. , ,   S.   N N D P - P  M M G R ||
-	}				
+[Sahithyam] {
+| Sha , ra , 	na , , ga 	, , tha , 	, va , , | tsa , , le 	, , shan , 	, , , ka 	, , , ri 	||
 }
 
+[Swaram] {
+| S , R ,   	M , , G   	R M D ,  	N G , P   | S. , , S. 	, ,  S. N 	N D P - P  	M M G R 	||
+}				
+
+[Sahithyam] {
+| Sa , r Ve	, , shwa ,  , ri- , Sa  , , Da ,  | Ma , , , 	M - Pa , ,  	, hi , ,  	, , , , ||
+}
+
+[Swaram] {
+| S R S S 	.N .D S , 	, R ,  M 	G R S R   | M , D , 	N - G  , P 		, S. N D  	P M G R ||
+}				
