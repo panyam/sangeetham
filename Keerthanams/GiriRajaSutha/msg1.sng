@@ -1,0 +1,64 @@
+# Ragam - Bangala
+# Talam - Adi
+# Composer - Thyagaraja
+# Source - MSG
+
+
+[Pallavi] {
+[Sw]	| ,, ,, 	,, R , 	P , P M	M, R, 	| G , G R 	R , S , 	S , S , S , - R G || 
+[Sh]	| ,, ,, 	,, Gi 	Ri, Ra, ,, Ja, 	| Su, Tha,  , , Tha, 	na, ya, S, - , , ||	 ....
+
+[Sw] 	| M P P M M ,, R , 	n,,P , P M	M, R, 	| G , G R 	R , S , 	S , S , S , - R G || 
+[Sh]	| ,, ,, 	,, Gi 	Ri, Ra, ,, Ja, 		| Su, Tha,  , , Tha, 	na, ya, ,, -  sa ,  ||	 ....
+
+[Sw] 	| M P P M M , R , 	n,,P , P M	M, R, 	| G , G R 	R , S R 	G R S N   .P , - R G || 
+[Sh]	| da ya ya ,  Gi 	Ri, Ra, ,, Ja, 		| Su, Tha,  , , Tha, 	na ,ya ,  ,, -  sa ,  ||
+[Sw] 	| M P P M M , R , 	nsnPm P M	M, R, 	| G , G R 	R , S R 	G R S N   .P , - R G || 
+[Sh]	| da ya ya ,  Gi 	Ri, Ra, ,, Ja, 		| Su, Tha,  , , Tha, 	na ,ya ,  ,, -  sa ,  ||
+}
+
+[AnuPallavi] {
+[Sw]	| ,, ,, 	,, P , 	S. , R. , 	, , R. , 	| S.R.G., 	, , R.G. 	M., R., 	, , G, 	||
+[Sh]	| ,, ,,     ,, Su, 	ra, na,  	, , tha , 	| mu, kha,	, , rchi , 	ta , pa, 	, , da, ||
+
+[Sw]	| G.R.S.,	,, P , 	S. , R. , 	, , R. , 	| S.R.S.R.	G., R.G. 	M., R., 	, , G, 	||
+[Sh]	| yu, ga,   ,, Su, 	ra, na,  	, , tha , 	| mu, kha,	, , rchi , 	ta , pa, 	, , da, ||
+
+[Sw] 	| G.R.S.,	,, S.R.	S.NP, 		,,	M , 	| R,,P 		,,  S.N 	P,    M,	,, R, ||
+[Sh]	| yu, ga,   ,, Pa,  ri,pa, 		, , la , 	| ya,,ma	,m  I , 	bha , ra,   ,, ja , ||
+
+[Sw] 	| G,  GR    R,S.R.	S.Npnpp 	P,	M , 	| R,,P 		,,  S.R.  G.R.S.R. 		S. NPR.	||
+[Sh]	| mu, kha,  ,, Pa,  ri,pa, 		, , la , 	| ya,,ma	,m  I , 	bha , ra,   ,, ja , ||
+
+[Sw] 	| S. NPM	RP- R, P , ...
+[Sh]	| mu, kha,  ,, - Gi Ri Raja ...
+}
+
+[Charanam] {
+[Sw]	| ,, ,, 	,, P , 	P , P , 	, , P , 	| R. , , S.	, , - S.N 	P, M ,	  , , R , ||
+[Sh]	| ,, ,,     ,, Ga, 	na, naa,  	, , tha , 	| pa, , ra  , , paa ,   ra , san, ,, ka , ||
+
+[Sw]	| G, GR 	R, S,r   R,g  G,m 	M,p  PM		| R,, P		,,S. N		P, M , 	  ,, R , ||
+[Sh]	| ra,,,     ,, ga,  ma, va, 	,,  ri, 	| ni,, dhi  ,, ra , 	ja, ni ,  ,, ka , ||
+
+[Sw]	| G, GR 	R, 
+[Sh]	| ra,,,     ,, ga,  ma, va, 	,,  ri, 	| ni,, dhi  ,, ra , 	ja, ni ,  ,, ka , ||
+
+[Sh]	| yu, ga,   ,, 
+
+[Sw]	| ,, ,, 	,, P , 	S. , R. , 	, , R. , 	| S.R.G., 	, , R.G. 	M., R., 	, , G, 	||
+[Sh]	| ,, ,,     ,, pha,	ni, ra,  	, , ja , 	| kan,,ka   , , vi,     ,, ghna,	, , vi, ||
+
+[Sw]	| G.R.S.,	,, P , 	S. , R. , 	, , R. , 	| S.R.S.R.	G., R.G. 	M., R., 	, , G, 	||
+[Sh]	| ra, na,   ,, pha,	ni, ra,  	, , ja , 	| kan,,ka   , , vi,     ,, ghna,	, , vi, ||
+
+[Sw] 	| G.R.S.,	,, S.R.	S.NP, 		,,	M , 	| R,,P 		,,  S.N 	P,  M,	,, R  , ||
+[Sh]	| ra, na,   ,, sha,	mbha,va,    ,,  , , 	| sri,,, 	,,  thya, 	ga, ra  ,, ja , ||
+
+[Sw] 	| G,  GR    R, S.R.	S.Npnpp 	P,	M , 	| R,,P 		,,  S.R.  G.R.S.R. 	S. NPR.	||
+[Sh]	| nu, tha,  ,, sha,	mbha,va,    ,,  , , 	| sri,,, 	,,  thya, 	ga, ra  ,, ja , ||
+
+[Sw] 	| S. NPM	RP- R, P , ...
+[Sh]	| nu, tha,  ,, - Gi Ri Raja ...
+}
+
