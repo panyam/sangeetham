@@ -8,11 +8,12 @@
 [Sw]	| ,, ,, 	,, R , 	P , P M	M, R, 	| G , G R 	R , S , 	S , S , S , - R G || 
 [Sh]	| ,, ,, 	,, Gi 	Ri, Ra, ,, Ja, 	| Su, Tha,  , , Tha, 	na, ya, S, - , , ||	 ....
 
-[Sw] 	| M P P M M ,, R , 	n,,P , P M	M, R, 	| G , G R 	R , S , 	S , S , S , - R G || 
+[Sw] 	| M P P M M ,, R , 	n,,P , , ,	,, R, 	| G , G R 	R , S , 	S , S , S , - R G || 
 [Sh]	| ,, ,, 	,, Gi 	Ri, Ra, ,, Ja, 		| Su, Tha,  , , Tha, 	na, ya, ,, -  sa ,  ||	 ....
 
 [Sw] 	| M P P M M , R , 	n,,P , P M	M, R, 	| G , G R 	R , S R 	G R S N   .P , - R G || 
 [Sh]	| da ya ya ,  Gi 	Ri, Ra, ,, Ja, 		| Su, Tha,  , , Tha, 	na ,ya ,  ,, -  sa ,  ||
+
 [Sw] 	| M P P M M , R , 	nsnPm P M	M, R, 	| G , G R 	R , S R 	G R S N   .P , - R G || 
 [Sh]	| da ya ya ,  Gi 	Ri, Ra, ,, Ja, 		| Su, Tha,  , , Tha, 	na ,ya ,  ,, -  sa ,  ||
 }
@@ -36,27 +37,25 @@
 
 [Charanam] {
 [Sw]	| ,, ,, 	,, P , 	P , P , 	, , P , 	| R. , , S.	, , - S.N 	P, M ,	  , , R , ||
-[Sh]	| ,, ,,     ,, Ga, 	na, naa,  	, , tha , 	| pa, , ra  , , paa ,   ra , san, ,, ka , ||
+[Sh]	| ,, ,,     ,, Ga, 	na, naa,  	, , tha , 	| pa, , rAt  , , paa ,   ra , san, ,, ka , ||
 
 [Sw]	| G, GR 	R, S,r   R,g  G,m 	M,p  PM		| R,, P		,,S. N		P, M , 	  ,, R , ||
 [Sh]	| ra,,,     ,, ga,  ma, va, 	,,  ri, 	| ni,, dhi  ,, ra , 	ja, ni ,  ,, ka , ||
 
 [Sw]	| G, GR 	R, 
-[Sh]	| ra,,,     ,, ga,  ma, va, 	,,  ri, 	| ni,, dhi  ,, ra , 	ja, ni ,  ,, ka , ||
+[Sh]	| ra,,,     ,, 
 
-[Sh]	| yu, ga,   ,, 
-
-[Sw]	| ,, ,, 	,, P , 	S. , R. , 	, , R. , 	| S.R.G., 	, , R.G. 	M., R., 	, , G, 	||
-[Sh]	| ,, ,,     ,, pha,	ni, ra,  	, , ja , 	| kan,,ka   , , vi,     ,, ghna,	, , vi, ||
-
-[Sw]	| G.R.S.,	,, P , 	S. , R. , 	, , R. , 	| S.R.S.R.	G., R.G. 	M., R., 	, , G, 	||
-[Sh]	| ra, na,   ,, pha,	ni, ra,  	, , ja , 	| kan,,ka   , , vi,     ,, ghna,	, , vi, ||
+[Sw]	| ,, ,, 	,, P , 	S. , R. , 	, , R. , 	| S.R.G., 	, , R.G. 	M., R., 	, , G, 	 ||
+[Sh]	| ,, ,,     ,, pha,	ni, ra,  	, , ja , 	| kan,,ka   , , na,     ,, vi, 		,, ghna, ||
 
 [Sw] 	| G.R.S.,	,, S.R.	S.NP, 		,,	M , 	| R,,P 		,,  S.N 	P,  M,	,, R  , ||
-[Sh]	| ra, na,   ,, sha,	mbha,va,    ,,  , , 	| sri,,, 	,,  thya, 	ga, ra  ,, ja , ||
+[Sh]	| ni,,va	,, ra,  na, sha,	,, mbha,	| va,,sri	,, thya, 	ga, ra  ,, ja , ||
 
-[Sw] 	| G,  GR    R, S.R.	S.Npnpp 	P,	M , 	| R,,P 		,,  S.R.  G.R.S.R. 	S. NPR.	||
-[Sh]	| nu, tha,  ,, sha,	mbha,va,    ,,  , , 	| sri,,, 	,,  thya, 	ga, ra  ,, ja , ||
+[Sw] 	| G,  GR    ,, P , 	S. , R. , 	, , R. , 	| S.R.S.R. 	G., R.G. 	P.M. R., 	, , G, 	 ||
+[Sh]	| nu,,tha	,, pha,	ni, ra,  	, , ja , 	| kan,,ka   , , na,     ,, vi, 		,, ghna, ||
+
+[Sw]	| G.R.S.,	,, S.R.	S.Npnpp 	P,	M , 	| R,,P 		,,  S.R.  G.R.S.R. 	S. NPR.	||
+[Sh]	| ni,,va 	,, ra,  na, sha,	,, mbha,	| va,,sri	,, thya, 	ga, ra  ,, ja , ||
 
 [Sw] 	| S. NPM	RP- R, P , ...
 [Sh]	| nu, tha,  ,, - Gi Ri Raja ...
