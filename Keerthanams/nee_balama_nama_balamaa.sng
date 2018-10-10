@@ -1,0 +1,89 @@
+
+# Ragam - Ananda Bhairavi
+# Talam - Adi
+# Composer - Thyagaraja
+
+[Pallavi] {
+[Sw]	| ,, ,, 	,, SN.	SG,R	,GM,	|	P, ,, 	,, MG	MP,M	,GR, 	||
+[Sh]	| ,, ,, 	,, Ni, 	,,,, 	Ba,La,	|	ma,,,	,, Naa	ma,,,	ba,la, 	||	# bala - with GR
+
+[Sw]	| S, ,, 	,, SN.	SG,R	,GM,	|	P, ,, 	,, MG	MP,M	,GR, 	||
+[Sh]	| ma,,, 	,, Ni, 	,,,, 	Ba,La,	|	ma,,,	,, Naa	ma,,,	ba,la, 	||
+
+# SRRS = S,,rRS
+[Sw]	| SRRS 		SN.SN.	SG,R	,GM,	|	P, ,, 	,dP - MG	MP,M	,GR, 	||
+[Sh]	| ma,,, 	,, Ni, 	,,,, 	Ba,La,	|	ma,,,	, , - Naa	ma,,,	ba,la, 	||
+
+[Sw]	| PMGR 		SN.SN.	SG,R	G,M,	|	PDDP 	S., - R.S.	NDP,	M,P, 	||
+[Sh]	| ma,,, 	,, Ni, 	,,,, 	Ba,La,	|	ma,,,	, , - Naa	ma,,,	ba,la, 	||
+
+# Always go back to Ni balama instead of nijamuga...
+[Sw]	| PMGR 		G,- G,	M,P,	,,,dP	|	M,gM,g	PMGR	S,,,	,,,, 	||
+[Sh]	| ma,,, 	,, Ni, 	ja,mu,	,,,ga	|	bal,,,	ka,,,	vey,,,	,,,, 	||
+
+[Sw]	| PMGR 		G,- G,	M,P,	,,,dP	|	M,gM,g	PMGR	S,,,	S,,, 	||
+[Sh]	| ma,,, 	,, Ni, 	ja,mu,	,,,ga	|	bal,,,	ka,,,	vey,,,	O,,, 	||
+
+[Sw]	| S,R,		N.,	- G,	M,P,	,,,dP	|	M,gM,g	PMGR	S,,,	P,,, 	||
+[Sh]	| Ra,,, 	ma, - Ni, 	ja,mu,	,,,ga	|	bal,,,	ka,,,	vey,,,	O,,, 	||
+
+[Sw]	| PMGR		S,	- G,	M,P,	,,,dP	|	M,gM,g	PMGR	S,,,	S.,,, 	||
+[Sh]	| Ra,,, 	ma, - Ni, 	ja,mu,	,,,ga	|	bal,,,	ka,,,	vey,,,	O,,, 	||
+
+[Sw]	| NDPM		GR	- 
+[Sh]	| Ra,,, 	ma, - 
+
+}
+
+# shrI Puja mA talli balamA shIlAtmulau sau-bhakta balamA
+[AnuPallavi] {
+[Sw]	| ,, ,, 	,, P,,m		P,,mP,	S.,S.,	| S.,,,		,,S.,,g	R.,S.,	N,,, 	||
+[Sh]	| ,, ,, 	,, Sri, 	,,-Pu,	,,Ja,	| Ma,,,		,,Tha,	,,lli, 	ba,la,	||
+
+[Sw]	| R.S.N.D,	P,-P,,m		P,,mP,	S.,S.,	| S.,,,		,,N,	G.,R.,  S.,S.N 	||
+[Sh]	| ma, ,, 	,, Sri, 	,,-Pu,	,,Ja,	| Ma,,,		,,Tha,	,,lli, 	ba,la,	||
+
+[Sw]	| R.S.N.D,	P,-P,,m		P,,mP,	S.,S.,	| PDPP 		S.,N,	G.,R.,  S.,S.N 	||
+[Sh]	| ma, ,, 	,, Sri, 	,,-Pu,	,,Ja,	| Ma,,,		,,Tha,	,,lli, 	ba,la,	||
+
+[Sw]	| R.S.N.D,	P,-P,,m		P,,mP,	S.,S.,	| PDPP 		S.,N,	G.,R.,  S.,S.N 	||
+[Sh]	| ma, ,, 	,, Sri, 	,,-Pu,	,,Ja,	| Ma,,,		,,Tha,	,,lli, 	ba,la,	||
+
+[Sw]	| R.S.N.D,	P,-P,,m		P,,mP,	S.,S.,	| PDPP 		S.,NS.	(srgrnsrs).	S.,S.N 	||
+[Sh]	| ma, ,, 	,, Sri, 	,,-Pu,	,,Ja,	| Ma,,,		,,Tha,	,,lli, 		ba,la,	||
+
+[Sw]	| R.S.N.D,	P,-P,		S.,S.N	NDP,	| P,DP,		,M-G,	,,M,	P,M, 	||
+[Sh]	| ma, ,, 	,, Shi,		,, la,	,,thmu	| lau,,sau	,,-Bha,	,,kta, 	ba,la, 	||
+
+[Sw]	| GMGR		SN.
+[Sh]	| ma, ,, 	,, 	(Ni balama)
+}
+
+# girirAja jAmAtAdi aja sura rAja kAncana rAja bhayahara 
+# rAja rAvaNa rAja bhIkara tyAgarAjanuta dhAma bhIma
+[Charanam] {
+
+[Sw]	| ,, ,, 	,, SM		GM,P	,,P,	| P,,,,	,,-M,	P,dpM,	,,PM 	||
+[Sh]	| ,, ,, 	,, Gi,  	ri,ra	,,ja,,	| Ja,,,	,,-ma,	,,ta,	,,di, 	||
+
+[Sw]	| GR,G		,, g,p		m,pg,p	m,gR,		| SRRS		SN.-SN	SNN, 	G,R, 	||
+[Sh]	| A,,ja		,, su,,,	ra,,,ra,,,	ja,,,,	| kan,,,	,,-cha,	na,ra,	,,ja,	||
+
+[Sw]	| ,, ,, 	,, SM		GM,P	,,P,	| GMP,	,,-M,	P,dpM,	,,PM 	||
+[Sh]	| ,, ,, 	,, Gi,  	ri,ra	,,ja,,	| Ja,,,	,,-ma,	,,ta,	,,di, 	||
+
+[Sw]	| GR,G		,, p,d		m,pg,m	r,gS,		| SRRS		SN.-SN	SNN, 	G,R, 	||
+[Sh]	| A,,ja		,, su,,,	ra,,,ra,,,	ja,,,,	| kan,,,	,,-cha,	na,ra,	,,ja,	||
+
+[Sw]	| ,,-G,		M,- 
+[Sh]	| ,,-Bha	ya-
+
+[Sw]	| ,,,,		,,,-P,,m	P,,mP,	S.,S.,	| PDPP 		S.,N,	G.R.,  	S.,S.N 	||
+[Sh]	| ,,,,		,,- ha,		ra,Ra,	,,ja,	| ra,,,		,,va,	,na,ra ,,ja,	||
+
+[Sw]	| R.S.N.D,	P,-P,		S.,S.N		NDP,	| P,DP		,M-G,	M,,P 		,,M, 	||
+[Sh]	| bhi,,, 	,, ka,		ra,thya,	,,ga,	| ra,,ja	,,-nu,	tha,,dhi 	,,ma, 	||
+
+[Sw]	| PMGR		SN.
+[Sh]	| bhi,,, 	ma, 	(Ni balama)
+}
