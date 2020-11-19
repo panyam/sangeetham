@@ -25,7 +25,9 @@ We assume that musical notation is already enclosed in some top level tag (eg <m
 
 eg:
 
+```
 \thalam{thalam data} notation continues \-
+```
 
 This way custom commands can be passed in as extensions for other layers.
 
@@ -35,11 +37,15 @@ At the end of the document the stack is implicitly popped fully.
 
 Comments are via the "#" Command, eg:
 
+```
 \# Begins a comment and can be \# nested until we have have a matching #\ end comment tag.  
 These are multi-line comments.
 These need to be balanced so we need another #\ here.
+```
 
+```
 \## Are single line comments till the end of the line
+```
 
 ### Thalams
 
@@ -49,11 +55,13 @@ Thalams are cyclical.   Piece of music keeps starting and ending cycles repeated
 
 Thalams are set via the \<thalam> command,eg (more on the duration command next):
 
+```
 \thalam{name = Adi, pattern = "|,,,|,,|,,||"}
 \duration{4} \# More on this later #\
 |,,,, ,, P D   N S. , N  ,, P M  |  P M G , , , G ,  |  M , P ,  , , P , || 
 |M,,, ,, 
 \thalam
+```
 
 ### Durations
 
