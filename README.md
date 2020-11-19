@@ -26,7 +26,7 @@ We assume that musical notation is already enclosed in some top level tag (eg <m
 eg:
 
 ```
-\thalam{thalam data} notation continues \-
+\thalam{thalam data as json} notation continues here until \-
 ```
 
 This way custom commands can be passed in as extensions for other layers.
@@ -56,8 +56,7 @@ Thalams are cyclical.   Piece of music keeps starting and ending cycles repeated
 Thalams are set via the \<thalam> command,eg (more on the duration command next):
 
 ```
-\thalam{name = Adi, pattern = "|,,,|,,|,,||"}
-\duration{4} \# More on this later #\
+\thalam{name = Adi, pattern = "|,,,|,,|,,||", duration = 4}
 |,,,, ,, P D   N S. , N  ,, P M  |  P M G , , , G ,  |  M , P ,  , , P , || 
 |M,,, ,, 
 \thalam
@@ -65,8 +64,16 @@ Thalams are set via the \<thalam> command,eg (more on the duration command next)
 
 ### Durations
 
+While thalams are set to indicate what a cycle looks like, it is pretty simplistic.  It assumes each beat in the thalam is a single note duration.  However there are times when we need to modify the number of notes per beat.  This can be done in 2 ways.  One via the duration flag in the thalam parameter itself.  *or* as a command in line with the notation.
 
+Each by setting the duration in the thalam command to say 4, each beat has 4 note duration.  However to enable say a thisram (3 notes) in the 3rd beat for a particular sangathi we can use the duration command followed by an end tag, eg:
 
+```
+| .... notation continues \duration{3} tha ki ta \- ..... ||
+```
+
+TODO - Consider a short cut since this could be common enough via parantheses to show "verbatim" duration.
+TODO 2 - Consider command that apply "vertically" instead of horizontally.  eg if every 3rd beat is a thisram can commands be made to apply verically so this duration change does not have to happen each time?
 
 ### Thaalams and Avarthams
 
