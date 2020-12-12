@@ -9,12 +9,49 @@ Representing carnatic music to support both notations, views, swarams, sahithyam
 * Representing all aspects of (Indian) music notation
 * Representing multiple parallel tracks.
 * Representing swarams, konnakkol, sahithyam (including breakages) all in a similar rhythmic way.
+* Document models for representing
 
 ### Out of Scope
 
 * Formatting of layouts.  The goal is that the raw format when viewed as is should be a good enough view instead of needing any more special processing.  Anything more is an extension (say coloring etc).
 * Non music document components.  We expect these "snippets" are embedded in another document format (such as html) via some special root tag so that if a user needs to place blocks of texts, pictures *outside* the musical notation they can use what ever the container allows (css etc).
 * The *editing* model that describes how a song might be edited in some visual editor.
+
+## Models
+
+We want a document model for our notations.
+
+A document is essentially a list of sections (pallavi, anupallavi etc) and these sections can have sections recursively.
+
+At the leaf level we have a list of Lines (or cycles).  Each line consists of one or more Roles.
+
+The idea is that a Line is played fully (start to end sequentially) at a time but all roles in a Line are to be played in parallel.
+
+For example the Swaram and Sahithyam for say a Pallavi's first line could constitute the roles for the first line (which itself may span multiple cycles).
+
+```
+Document = Section
+
+Section = List<Section | List<Line>>
+
+Line = List<Role>
+
+Role = List<TimeItem>
+
+TimedItem = {
+  position : Time
+  duration : Time
+  type : union {
+    Command
+    Ref
+    Marker
+    Symbol
+    Note
+    Duration
+  }
+}
+```
+
 
 ## Notation
 
@@ -84,3 +121,5 @@ TODO 2 - Consider command that apply "vertically" instead of horizontally.  eg i
 ### Swarams
 
 ### Syllables
+
+
